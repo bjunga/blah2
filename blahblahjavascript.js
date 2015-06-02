@@ -1,0 +1,1 @@
+alert("This is an auto alert. Be prepared to die. Self-distructing in 3 minutes (no countdown for you)");
